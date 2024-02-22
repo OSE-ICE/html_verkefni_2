@@ -1,0 +1,144 @@
+body {
+    font-family: Montserrat;
+    font-weight: bolder;
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+    font-weight: bolder;
+    font-size: 45px;
+}
+
+h3 {
+    margin: 0;
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+.header {
+    text-align: center;
+    background-color: #102a43;
+    padding: 85px;
+    color: white;
+    font-weight: bolder;
+}
+
+img {
+    margin-left: 40px;
+    margin-top: 20px;
+    height: 420px;
+    padding: 15px;
+    background-color: #9fb3c8;
+}
+
+.about {
+    margin-top: 10px;
+    font-size: 45px;
+}
+
+.main-text {
+    font-weight: 500;
+    font-size: 22px;
+    border-bottom: solid 1px lightgray;
+    padding-bottom: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.highlight-yellow {
+    background-color: #F7D070;
+}
+
+.highlight-red {
+    background-color: #A61B1B;
+    color: white;
+}
+
+.a-header {
+    color: white;
+    text-decoration: none;
+}
+
+h2 {
+    font-weight: bolder;
+    font-size: 45px;
+    padding-left: 40px;
+}
+
+table {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.table-header {
+    background-color: #9fb3c8;
+    border-bottom: solid 1px #9fb3c8;
+    text-align: center;
+    font-weight: 500;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.table-decor {
+    border-bottom: solid 1px #9fb3c8;
+    background-color: #F0F4F8;
+    font-weight: 500;
+    font-size: 22px;
+}
+
+.education-list {
+    padding-left: 90px;
+    font-weight: 500;
+    font-size: 22px;
+}
+
+.div-box {
+    width: 430px;
+    font-size: 30px;
+    font-weight: 500;
+    padding: 10px;
+    border-left: 15px solid #da4a91;
+    margin-left: 95px;
+}
+
+.quotes {
+    color: #9fb3c8;
+}
+
+.div-box-2 {
+    width: 400px;
+    font-size: 30px;
+    font-weight: 500;
+    padding: 10px;
+    border-right: 15px solid #da4a91;
+    margin-left: 110px;
+    text-align: right;
+}
+
+.social {
+    margin-left: 40px;
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.social-padding {
+    padding-bottom: 20px;
+}
+
+.box {
+    position: relative;
+    border-bottom: 170px solid #F0F4F8;
+    margin-bottom: 300px;
+    margin-top: 50px;
+}
+
+.text {
+    position: absolute;
+    color: #F0F4F8;
+    font-size: 70px;
+    font-weight: bolder;
+    bottom: -23px;
+    left: 210px;
+    padding: 0 5px;
+}
